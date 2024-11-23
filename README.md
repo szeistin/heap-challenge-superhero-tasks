@@ -1,4 +1,7 @@
 # Superhero Mission Control Heap Challenge
+## Contributors
+- [Kristine O. Villanueva](https://github.com/szeistin)
+- [Jemiel O. Honradez](https://github.com/partner-username)
 
 ## Overview
 
